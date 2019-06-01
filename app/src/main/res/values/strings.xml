@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="dollar_currency">Please enter $ amount</string>
+    <string name="Convert">Convert</string>
+</resources>
